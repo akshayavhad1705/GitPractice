@@ -4,3 +4,4 @@ learning pull command
 
 Change made directly on GitHub
 Changes made from my local computer 
+Change made by Developer A during collaboration
