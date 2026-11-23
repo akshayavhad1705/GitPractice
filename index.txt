@@ -3,3 +3,4 @@ I am learning Git and Github
 learning pull command
 
 Change made directly on GitHub
+Changes made from my local computer 
