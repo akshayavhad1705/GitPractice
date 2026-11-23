@@ -8,3 +8,4 @@ Changes made from my local computer
 Change made by Developer A during collaboration
 Changes made by Developer B
 
+Login feature developed by Developer A
